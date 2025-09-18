@@ -95,7 +95,7 @@ Some examples:
 ### Learning objectives
 
 * analyze xyz data to produce...
-* create xyz plots
+* create synthetic data according to complex hierarchical models in R
 * evaluate xyz data for artifacts
 
 ## Workshop
