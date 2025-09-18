@@ -1,6 +1,6 @@
 ---
-title: "An Example Workshop"
-author: Sean Davis^[seandavi@gmail.com]
+title: "An Example Workshop on Generative Models"
+author: Susan Holmes^[sp.holmes@gmail.com]
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{An Example Workshop}
@@ -22,7 +22,7 @@ Authors:
     Author Name^[Institution],
     Another Author^[Another Institution].
     <br/>
-Last modified: 14 May, 2018.
+Last modified: 18 September, 2025.
 
 ## Overview
 
@@ -61,12 +61,12 @@ List any _R_ / _Bioconductor_ packages that will be explicitly covered.
 
 An example for a 45-minute workshop:
 
-| Activity                     | Time |
-|------------------------------|------|
-| Packages                     | 15m  |
-| Package Development          | 15m  |
-| Contributing to Bioconductor | 5m   |
-| Best Practices               | 10m  |
+| Activity                       | Time |
+|--------------------------------|------|
+| Simulations                    | 15m  |
+| Probabilities and Parameters   | 15m  |
+| Comparing Data and Simulations | 10m   |
+| Best Practices                 |  5m  |
 
 ### Workshop goals and objectives
 
