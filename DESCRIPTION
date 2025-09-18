@@ -1,14 +1,13 @@
-Package: BuildABiocWorkshop
-Title: Bioconductor or R Workshop Template and Github Actions
-Version: 2.0.1
+Package: GenerativeWorkshop
+Title: Workshop on Generative Models
+Version: 0.1
 Authors@R: 
-    person(given = "Sean",
-           family = "Davis",
+    person(given = "Susan",
+           family = "Holmes",
            role = c("aut", "cre"),
-           email = "seandavi@gmail.com",
-           comment = c(ORCID = "0000-0002-8991-6458"))
-Description: This package serves as a template for using github actions to 
-    prepare a Bioconductor Workshop package for use. In particular,
+           email = "sp.holmes@gmail.com",
+           comment = c(ORCID = "0000-0002-2208-8168"))
+Description: This is a workshop following Sean Davis's build a workshop. In particular,
     a pkgdown website and docker image are generated based on workflow 
     settings. 
 License: MIT + file LICENSE
@@ -22,7 +21,7 @@ Suggests:
     knitr,
     rmarkdown,
     pkgdown
-URL: https://seandavi.github.io/BuildABiocWorkshop/
-BugReports: https://github.com/seandavi/BuildABiocWorkshop/issues/new/choose
+URL: https://spholmes.github.io/GenerativeModels/
+BugReports: https://github.com/GenerativeModels/
 VignetteBuilder: knitr
-DockerImage: ghcr.io/seandavi/buildabiocworkshop:latest
+DockerImage: ghcr.io/spholmes/generativeworkshop:latest
